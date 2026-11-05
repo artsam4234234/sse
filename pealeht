@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marie Ilutuba</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <header>
+      <h1>Marie Ilutuba</h1>
+      <p>Ilu ja hoolitsus just Sinule!</p>
+    </header>
+
+    <nav>
+      <a href="hinnakiri.html">Hinnakiri</a>
+      <a href="broneeri.html">Broneeri aeg</a>
+    </nav>
+
+    <main>
+
+      <section class="vasak">
+        <h2>Tere tulemast!</h2>
+        <p>
+          Marie Ilutuba on hubane koht,
+          kus saad lõõgastuda ja nautida
+          erinevaid iluteenuseid.
+        </p>
+
+        <div class="galerii">
+          <img
+            src="https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800"
+            alt="Ilutoa sisustus"
+          >
+        </div>
+      </section>
+
+      <aside class="parem">
+
+        <div class="sotsiaal">
+          <span>Instagram</span>
+          <span>Facebook</span>
+          <a href="https://www.tumblr.com/"
+             target="_blank"
+             rel="noopener noreferrer">Tumblr</a>
+        </div>
+
+        <h2>Meie asukoht</h2>
+
+        <iframe
+          title="Asukoha kaart"
+          src="https://www.google.com/maps?q=Tartu&output=embed"
+          width="100%"
+          height="220"
+          style="border:0;"
+          loading="lazy">
+        </iframe>
+
+        <h3>Aadress</h3>
+        <p>Tartu, Eesti</p>
+
+        <h3>Lahtiolekuajad</h3>
+        <p>E–R: 09:00–18:00</p>
+        <p>L: 10:00–15:00</p>
+        <p>P: Suletud</p>
+
+      </aside>
+
+    </main>
+
+    <footer>
+      <p>© 2026 Marie Ilutuba</p>
+    </footer>
+
+  </div>
+
+</body>
+</html>
